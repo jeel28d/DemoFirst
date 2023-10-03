@@ -1,4 +1,4 @@
 # DemoFirst
 this is first repo
 <br> 
-Author : i'm jeel
+Author : i'm Djeel
